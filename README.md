@@ -23,4 +23,4 @@ Replace this text with instructions for recreating the environment necessary to 
 
 ## Instructions to reproduce the output (YOU EDIT)
 
-The `output.txt` file contained in this repository was generated with the code available in the `code/` folder
+The `output.txt` file contained in this repository was generated with the code available in the `code/` folder....
