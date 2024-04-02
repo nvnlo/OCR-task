@@ -4,7 +4,7 @@ This repository constitutes a coding problem aimed at assessing your ability to 
 
 ## Instructions: 
 
-This problem requires you to digitize the numbers in the `data` folder of this directory. To do so: 
+This problem requires you to digitize the numbers in the `data` folder of this directory. These numbers were pulled from a historical hydrological document like the one we would be working to digitize. To do so: 
 
 1. Fork this repository to create your own to work out of. Make it a public repository. Clone it to your local computer. 
 1. Create a `code/` folder . Write Python code in this folder which generates an `output.txt` file (housed in the main repository). This file will list all the numbers written on the images in the `data/` folder in the order of their image name, with a new number on each new line. 
