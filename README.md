@@ -7,9 +7,9 @@ This repository constitutes a coding problem aimed at assessing your ability to 
 This problem requires you to digitize the numbers in the `data` folder of this directory. These numbers were pulled from a historical hydrological document like the one we would be working to digitize. To do so: 
 
 1. Fork this repository to create your own to work out of. Make it a public repository. Clone it to your local computer. 
-1. Create a `code/` folder . Write Python code in this folder which generates an `output.txt` file (housed in the main repository). This file will list all the numbers written on the images in the `data/` folder in the order of their image name (i.e. `image_1.png`, then `image_2.png`, etc.) , with a new number on each new line. 
+1. Create a `code/` folder. Write Python code in this folder which generates an `output.txt` file (housed in the main repository). This file will list all the numbers written on the images in the `data/` folder in the order of their image name (i.e. `image_1.png`, then `image_2.png`, etc.) , with a new number on each new line. 
 1. Run your python code to generate the `output.txt` file. It's 100% fine if all the numbers are not correct. 
-1. Document your work (see below for detailed instructions). 
+1. Document your work (see below for detailed instructions). Make sure everything is committed and pushed. 
 1. Email a link you your completed forked repository to annaboser@ucsb.edu and ahilton@ucsb.edu by midnight on April XX, 2024. Please ensure it is public so we can review it. 
 
 ### By the end of the problem, your repository should include: 
