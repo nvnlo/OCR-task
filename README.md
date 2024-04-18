@@ -23,4 +23,4 @@ To run this code, working in a Jupyter notebook of some kind will probably be be
 
 ## Instructions to reproduce the output
 
-The `output.txt` file contained in this repository was generated with the code available in the `code/` folder. Once all packages are properly loaded in, make sure that your file is in the same folder as the image data, as it is imperative to running it. 
+The `output.txt` file contained in this repository was generated with the code available in the `code/` folder. To recreate the same output file, all that needs to be done is `pip install easyocr`, then import it. If the image files and code are in the same folder, it will run fine and loop through all images. 
