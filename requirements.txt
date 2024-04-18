@@ -1,0 +1,6 @@
+Required packages:
+matplotlib.pyplot as plt:  visualization
+Image from PIL: loading images 
+pytesseract as pt: one approach to OCR, slightly worse in this case
+Path from pathlib: a way to generalize and sort file names
+Reader from easyocr: second way to approach OCR, read English text
