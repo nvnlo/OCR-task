@@ -17,10 +17,10 @@ This problem requires you to digitize the numbers in the `data` folder of this d
 1. A `code` folder containing all the Python code necessary to generate the output file and a filled out section of the readme explaining these contents and how to run the code. Please additionally ensure that the code is properly commented and easily readable. 
 1. The `output.txt` file containing the numbers printed on the documents in the data folder, in order and with a new line for each new entry. 
 
-## Setup instructions (YOU EDIT)
+## Setup instructions 
 
-Replace this text with instructions for recreating the environment necessary to run your code. 
+To run this code, working in a Jupyter notebook of some kind will probably be best. Install the required libraries (pytesseract, easyocr), then import all of the required packages from `requirements.txt`, and there will be some additional work to do with downloading PyTesseract. Once that is done you should be able to just run the code provided and recreate the output.
 
-## Instructions to reproduce the output (YOU EDIT)
+## Instructions to reproduce the output
 
-The `output.txt` file contained in this repository was generated with the code available in the `code/` folder....
+The `output.txt` file contained in this repository was generated with the code available in the `code/` folder. Once all packages are properly loaded in, make sure that your file is in the same folder as the image data, as it is imperative to running it. 
